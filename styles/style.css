@@ -1,4 +1,192 @@
-/* test:
+
 .navigation {
-    background-color: lightblue;
-} */
+    color: #ffffff;
+    list-style: none;
+    list-style-position: inside;
+    margin-left: 80px;
+   /* border: 1px solid white; */
+} 
+
+nav ul li {
+    /*list-style: none;
+     margin: 0;*/
+   float: left;
+    padding-left: 10px;
+    margin-right: 25px;
+    margin-top: 25px;
+    
+   padding-top: 0px;
+   /*border: 1px solid yellow; */
+   width: 100px;
+     /*text-decoration: none; */
+}
+
+ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+   /* border: 1px solid red; */
+   }
+   ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+    
+   }
+
+   .enter {
+       margin-left: 1060px;
+       margin-top: -22px;
+     /*  border: 1px solid green; */
+      
+   }
+.logo {
+    padding: 80px 500px 10px 500px;
+  /*  border: 1px solid white; */
+    height: 160px;
+    width:1000px;
+}
+
+.body {
+    font-family: PT Sans Narrow;
+    font-weight: bold;
+    width:1400px;
+    border: 1px solid red;
+     
+}
+
+.headerblack {
+    background-color: black;
+  /*border: 1px solid red; */
+    width: 1600px;
+    height: 70px;
+    margin-left: 0px;
+}
+
+.advantages {
+    color: #f7f4f1;
+    width:1200px;
+    margin:0 auto;   
+    overflow: hidden;
+    text-align: center;
+  /*  border: 1px solid white; */
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+.titlel {
+    width:380px;
+    height: 320px;
+    float: left;  
+    margin-top: 0px;
+    margin-left: 0px;
+ /*   border: 1px solid white; */
+}
+
+.titlec{
+    width:380px;
+    height: 320px;
+    float: left;  
+    margin-top: 0px;
+    margin-left: 24px;
+ /*   border: 1px solid white; */
+}
+
+.titler {
+    width:380px;
+    height: 320px;
+    float: right;  
+    margin-top: 0px;
+    margin-left: 1px;
+ /*   border: 1px solid white; */
+}
+
+
+
+
+.whitebackgr {
+    border: 1px solid red;
+    background: url('img/WhiteBackground.jpg');
+    height:800px;
+}
+
+
+  .advantages .annotation {
+ 
+}
+
+.advantages .title{
+font-size: 30px;
+ }
+
+.allNews {
+color: #000000;
+}
+
+.allNews .title{
+    font-size: 30px;
+}
+
+.allNews .description{
+
+}
+
+.contact {
+color: #000000;
+
+}
+
+.contact .title{
+    font-size: 30px;
+}
+
+.contact .info {
+font-size: 14px;
+}
+
+.communication{
+
+}
+
+.communication .title{
+    font-size: 30px;
+}
+
+.communication .info{
+    font-size: 14px;
+}
+.adress{
+
+}
+
+.adress .title{
+    font-size: 30px;
+}
+
+.adress .info{
+    font-size: 14px;
+}
+.socialnetwork{
+
+}
+
+.socialnetwork .title {
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
